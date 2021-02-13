@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-permalink: /elements/
+title: Eventod
+permalink: /eventos/
 image: '/images/11.jpg'
 ---
 
