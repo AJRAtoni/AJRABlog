@@ -48,13 +48,7 @@ layout: default
         </ul>
       </div>
 
-      {% if page.tags.size >= 1 %}
-      <div class="post__tags">
-        {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
+      
     </div>
 
     <div class="post-author">
