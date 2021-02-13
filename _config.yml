@@ -14,8 +14,8 @@ author:
   avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://www.twitter.com/ajra_toni"}
+- {icon: "ion-logo-facebook", label: Facebook, link: "https://www.facebook.com/ajra.es"}
 - {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
 - {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
 - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
