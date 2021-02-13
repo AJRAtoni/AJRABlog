@@ -11,7 +11,7 @@ url: "https://ajratoni.github.io" # the base hostname & protocol for your site, 
 author:
   name: AJRA
   bio: Soy Desarrollador Web & Analista de Datos.<br>Ayudó a personas y empresas a mejorar su presencia online.<br><br>I ❤️ iPad.
-  avatar: '/images/01.jpg'
+  avatar: '/images/04.jpg'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://www.twitter.com/ajra_toni"}
