@@ -13,15 +13,7 @@
 
       <p class="article__excerpt">{{ post.description }}</p>
 
-      <div class="article__bottom">
-        {% if post.tags.size >= 1 %}
-        <div class="article-tags__box">
-          {% for tag in post.tags %}
-            <a href="{{ site.baseurl }}/tag/{{ tag }}" class="article__tag">{{ tag }}</a>
-          {% endfor %}
-        </div>
-        {% endif %}
-      </div>
+      
 
     </div>
   </div>
