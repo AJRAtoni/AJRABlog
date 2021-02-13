@@ -3,8 +3,8 @@
 title: AJRA
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ajratoni.github.io/AJRABlog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/AJRABlog" # the subpath of your site, e.g. /blog
+url: "https://ajratoni.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
