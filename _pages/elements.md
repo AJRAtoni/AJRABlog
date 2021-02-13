@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eventod
+title: Eventos
 permalink: /eventos/
 image: '/images/11.jpg'
 ---
