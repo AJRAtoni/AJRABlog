@@ -11,7 +11,7 @@ url: "https://ajratoni.github.io" # the base hostname & protocol for your site, 
 author:
   name: AJRA
   bio: Soy Desarrollador Web & Analista de Datos.<br>Ayudo a personas y empresas a mejorar su presencia online.<br><br>I ❤️ iPad.
-  avatar: 'https://ajratoni.github.io/AJRABlog/images/logo.jpg'
+  avatar: 'https://ajratoni.github.io/AJRABlog/images/AJRA.jpg'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://www.twitter.com/ajra_toni"}
@@ -29,7 +29,7 @@ social:
 hero:
   hero__title: Soy AJRA <br> Web Developer & Data Analyst.
   hero__description: Soy Desarrollador Web & Analista de Datos.<br>Ayudo a personas y empresas a mejorar su presencia online.<br><br>I ❤️ iPad.
-  hero__image: 'https://ajratoni.github.io/AJRABlog/images/logo.jpg'
+  hero__image: 'https://ajratoni.github.io/AJRABlog/images/AJRA.jpg'
 
 
 #-------------------------------
