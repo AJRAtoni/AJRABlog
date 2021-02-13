@@ -16,9 +16,9 @@ author:
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://www.twitter.com/ajra_toni"}
 - {icon: "ion-logo-facebook", label: Facebook, link: "https://www.facebook.com/ajra.es"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
+- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://www.pinterest.es/ajra"}
 - {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com/ajra_toni"}
 - {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
