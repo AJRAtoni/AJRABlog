@@ -45,7 +45,7 @@ mailchimp__button__text: Join # Add your button text
 # Contact Settings
 contact:
   email: ajra.toni@icloud.com # Add your email for contact form
-  description: Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: Si necesitas contactar conmigo por temas personales o de trabajo, rellena este formulario y te contestare lo antes posible. # Add a description of your form
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
