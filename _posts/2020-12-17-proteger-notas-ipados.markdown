@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Como proteger notas con contraseña en iPadOS
+image: '/images/03.JPG'
 ---
 
 Ya sabemos cuanto se preocupa Apple por nuestra privacidad.
