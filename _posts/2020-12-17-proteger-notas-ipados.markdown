@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips iOS & iPadOS - Proteger notas con contraseña
+title: Como proteger notas con contraseña en iPadOS
 ---
 
 Ya sabemos cuanto se preocupa Apple por nuestra privacidad.
