@@ -24,6 +24,7 @@ Proteger una nota con contraseña es algo muy sencillo:
 * En el menú contextual que nos aparece seleccionamos “Bloquear Nota”
 * Por ultimo introducimos la contraseña con la que queremos bloquear la nota.
 
+![Work]({{site.baseurl}}/images/03.gif)
 
 Listo con estos sencillos pasos ya tenemos nuestra nota bloqueada y nadie podrá acceder a esa información sin saber la contraseña.
 
