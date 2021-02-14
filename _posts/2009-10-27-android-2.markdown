@@ -2,7 +2,6 @@
 layout: post
 title: Android SDK 2.0 (Eclair)
 description: Muchos acabamos de recibir la actualización 1.6 en nuestras Magics, pero Google ha decidido no parar la maquinaria y ya ha sacado a la luz el SDK para Android 2.0
-date: 2009-10-27 15:01:35 +0300
 image: '/images/02.JPG'
 
 ---
