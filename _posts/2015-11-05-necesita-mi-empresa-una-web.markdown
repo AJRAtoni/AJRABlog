@@ -2,7 +2,7 @@
 layout: post
 title: ¿Necesita mi empresa una web?
 description: Parece un poco extraño, pero todavía hay empresas que a día de hoy nos hacen esta pregunta.
-image: '/images/04.jpg'
+image: '/images/04.JPG'
 
 ---
 La respuesta a esta pregunta es SI.
