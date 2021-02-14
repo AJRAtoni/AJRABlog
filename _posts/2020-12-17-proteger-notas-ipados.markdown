@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Como proteger notas con contraseña en iPadOS
+description: Todos sabemos lo enserio que se toma Apple la seguridad y en este articulo os enseño cómo podéis proteger con contraseña las notas de un iPad.
 image: '/images/03.JPG'
 ---
 
