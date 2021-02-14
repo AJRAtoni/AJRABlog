@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Work]({{site.baseurl}}/images/ajra.jpg)
+![Work]({{site.baseurl}}/images/AJRA-01.jpg)
 
 AJRA nació el 16 de Agosto de 1983 y fue criado entre cintas de video, paginas de comics y cultura pop.  
 
