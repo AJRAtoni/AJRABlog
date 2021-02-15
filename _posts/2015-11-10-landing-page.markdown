@@ -2,9 +2,11 @@
 layout: post
 title: ¿Que es una Landing Page?
 description: En el artículo de hoy, volvemos a hablar de un término relacionado con el Marketing Digital.
-image: '/images/06.JPG'
 
 ---
+
+![Landing]({{site.baseurl}}/images/06.JPG)
+
 Una **Landing Page** es una de las mejores herramientas con las que cuenta una página web a la hora de conseguir conversiones.
 
 Sí traducimos literalmente **Landing Page** al castellano nos encontramos con “Página de Aterrizaje” y es que se trata de la página a la que el usuario llega (aterriza) después de hacer click en algún enlace, banner, campaña de Email Marketing, o cualquier otro tipo de promoción.
