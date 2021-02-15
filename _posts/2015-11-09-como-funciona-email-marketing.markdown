@@ -2,9 +2,9 @@
 layout: post
 title: ¿Como funciona el Email Marketing?
 description: El Email Marketing puede parecer algo complicado y complejo, hay muchas cosas a tener en cuenta y muchos factores que pueden hacer que nuestra campaña de e-mailing salga bien o mal.
-image: '/images/05.PNG'
-
 ---
+![Landing]({{site.baseurl}}/images/05.PNG)
+
 En el mundo del Email Marketing todo afecta.
 
 Desde la plataforma que usamos para hacer el envío (Mailchimp, Mandrill, Mailpoet), el asunto del mensaje, el buen uso del call to action en el cuerpo del mail, si usamos un formato de texto enriquecido, html o texto plano, etc…

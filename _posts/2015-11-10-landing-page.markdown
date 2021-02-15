@@ -23,9 +23,9 @@ Las Landing Page son diferentes al resto de páginas de una web (o al menos debe
 
 Pues porque el resto de páginas de nuestra web suelen tener demasiada información que no ayuda a tener conversiones, la cabecera, pie de página, menús de navegación o sidebars incluyen demasiadas opciones que pueden distraer la atención de los clientes y hacer que acaben saliendo de la Landing Page sin realizar nuestro objetivo.
 
-## ¿Que debería incluir una Landing Page?
+## ¿Qué debería incluir una Landing Page?
 
-Cómo siempre les decimos a nuestros clientes, DEPENDE. Cada caso es diferente, y depende del objetivo de tu web.
+Como siempre les decimos a nuestros clientes, DEPENDE. Cada caso es diferente, y depende del objetivo de tu web.
 
 Pero hay un par de cosas que todas las **Landing Page** deberían incluir:
 
@@ -40,12 +40,12 @@ Pero hay un par de cosas que todas las **Landing Page** deberían incluir:
 
 ![Landing]({{site.baseurl}}/images/06-2.JPG)
 
-Cómo ves tiene un título llamativo, una imagen atractiva, un número breve de características, un formulario con un número reducido de campos y un Call to Action que se ve desde lejos.
+Como ves tiene un título llamativo, una imagen atractiva, un número breve de características, un formulario con un número reducido de campos y un Call to Action que se ve desde lejos.
 
 Estos son solo algunos consejos aprendidos de nuestra experiencia con diversos clientes, pero como os hemos dicho al principio del artículo todo depende de cada caso y puede que lo que funciona a un cliente no os funcione a vosotros.
 
 Así que lo mejor es que hagáis un Test A/B en el que probar con diferentes títulos, contenidos, Call to Action y probad cambiando las posiciones de los botones o imágenes.
 
-Solo así podréis analizar los datos y ver que opciones funcionan mejor en vuestra **Landing Page**.
+Solo así podréis analizar los datos y ver qué opciones funcionan mejor en vuestra **Landing Page**.
 
 En el caso de necesitar una Landing Page puedes ponerte en contacto conmigo, estudiaremos tu caso e intentare dar con el producto idóneo.

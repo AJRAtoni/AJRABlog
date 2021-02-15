@@ -5,6 +5,8 @@ description: Parece un poco extraño, pero todavía hay empresas que a día de h
 image: '/images/04.JPG'
 
 ---
+![Web]({{site.baseurl}}/images/04.JPG)
+
 La respuesta a esta pregunta es SI.
 
 Primero fueron los medios impresos, luego la radio, después la Television y ahora Internet. La Web se ha convertido en el medio de comunicación más utilizado, ya sea desde el ordenador o desde dispositivos móviles la gente está conectada permanentemente a Internet.
