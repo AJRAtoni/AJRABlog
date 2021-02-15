@@ -3,7 +3,7 @@ layout: post
 title: iOS & iPadOS 14.3 ya disponibles
 description: Apple ha lanzado la actualización de 14.3 para iOS y iPadOS.
 ---
-![iPadOS]({{site.baseurl}}/images/08.JPG)
+![iPadOS]({{site.baseurl}}/images/08.png)
 
 Apple ha lanzado la actualización de 14.3 para iOS y iPadOS.
 
@@ -12,7 +12,7 @@ Entre las principales novedades de esta versión, destaca la llegada del formato
 ## Apple ProRAW
 Com Apple ProRAW los iPhone 12 Pro y iPhone 12 Pro Max puede tomar fotos en en este nuevo formato, que fusiona lo mejor de la fotografía computacional y los archivos RAW.
 
-![iPadOS]({{site.baseurl}}/images/09.JPG)
+![iPadOS]({{site.baseurl}}/images/09.png)
 
 Según Apple esto es lo que ofrece Apple ProRAW:
 
@@ -21,7 +21,7 @@ Según Apple esto es lo que ofrece Apple ProRAW:
 ## Apple Fitness+
 Esta nueva version de iOS viene también con la incorporación de Apple Fitness+ el nuevo servicio de clases de Fitness que ofrece entrenos personalizados y sesiones individuales que podemos seguir desde nuestros dispositivos (siempre que utilicemos un Apple Watch).
 
-![iPadOS]({{site.baseurl}}/images/10.JPG)
+![iPadOS]({{site.baseurl}}/images/10.png)
 
 Para promocionar este servicio Apple esta ofreciendo 3 meses de suscripción cuando compras un nuevo Apple Watch.
 
