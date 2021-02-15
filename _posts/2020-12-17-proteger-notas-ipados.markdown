@@ -1,21 +1,34 @@
 ---
 layout: post
-title: Configurar que tus aplicaciones vayan directamente a la biblioteca de apps
-Description: 
+title: Como proteger notas con contraseña en iPadOS
+description: Todos sabemos lo enserio que se toma Apple la seguridad y en este articulo os enseño cómo podéis proteger con contraseña las notas de un iPad.
 ---
-![iPadOS]({{site.baseurl}}/images/03.JPG)
-
-Antes de la llegada de iOS 14, cuando instalábamos una app en nuestro iPhone esta iba automáticamente al primer espacio disponible en alguna de nuestras pantallas.
-
-Ahora tenemos la biblioteca de apps, que nos permite tener mejor organizadas las aplicaciones que no utilizamos tanto, o que no queremos que estén en nuestro dashboard.
+![AJRA]({{site.baseurl}}/images/03.JPG)
 
 
-En los ajustes de iOS 14 tenemos la opción de configurar que las nuevas apps que instalemos vayan directamente a la biblioteca de apps.
+Ya sabemos cuanto se preocupa Apple por nuestra privacidad.
 
-Los pasos a seguir son los siguientes:
+También sabemos que podemos proteger nuestro iPhone y nuestro iPad con password.
 
-Entrar en Ajustes.
-Ir a Pantalla de inicio.
-Activar la opción “Solo en la biblioteca de apps”.
+¿Pero sabíais que también podéis proteger vuestras notas con una contraseña extra?
 
-De esta forma cada vez que descarguemos una nueva aplicación esta se archivara directamente en la biblioteca en lugar de ocupar espacio en nuestras pantallas de inicio.
+Primero llego password, luego el TouchID y más recientemente el FaceID.
+
+Estamos llegando a un punto en el cual nadie puede (o nadie debería poder) acceder al contenido de nuestro dispositivo Apple.
+
+Pero se me ocurren muchas situaciones en las que una tercera persona tiene acceso a nuestro dispositivo, ya sea porque se lo dejas para hacer unas fotos, los niños quieren jugar en tu teléfono, o cualquier otra situación en la que dejas tu dispositivo desbloqueado a otra persona.
+
+En esa situación puede que no quieras que tenga acceso a algunas notas que quizá tengan información que no deba ser vista por otros, y para eso puedes proteger las notas con una contraseña.
+
+Proteger una nota con contraseña es algo muy sencillo:
+* Abrimos la App Notas.
+* Mantenemos pulsada la nota que queremos bloquear.
+* En el menú contextual que nos aparece seleccionamos “Bloquear Nota”
+* Por ultimo introducimos la contraseña con la que queremos bloquear la nota.
+
+![AJRA]({{site.baseurl}}/images/03.gif)
+
+Listo con estos sencillos pasos ya tenemos nuestra nota bloqueada y nadie podrá acceder a esa información sin saber la contraseña.
+
+
+Otro pequeño pero curioso tip para sacar el máximo partido a nuestros iPhones y iPads.
