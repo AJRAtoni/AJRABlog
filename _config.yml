@@ -3,8 +3,8 @@
 title: AJRA
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Web Developer & Data Analyst - Ayudo a personas y empresas a mejorar su presencia online.
-baseurl: "/AJRABlog" # the subpath of your site, e.g. /blog
-url: "https://ajratoni.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ajra.es" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
