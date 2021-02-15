@@ -2,7 +2,6 @@
 layout: post
 title: ¿Que es un “Call to Action”?
 description: La idea es que mediante un botón, palabra o frase el usuario acabe realizando nuestro objetivo, ya sea hacer click en un botón, banner, rellenar un formulario de contacto, suscribirse a un newsletter, etc…
-image: '/images/07.JPG'
 
 ---
 ![Landing]({{site.baseurl}}/images/07.JPG)
