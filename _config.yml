@@ -11,7 +11,7 @@ url: "https://ajra.es" # the base hostname & protocol for your site, e.g. http:/
 author:
   name: AJRA
   bio: Soy Desarrollador Web & Analista de Datos.<br>Ayudo a personas y empresas a mejorar su presencia online.<br><br>I ❤️ iPad.
-  avatar: 'https://ajratoni.github.io/AJRABlog/images/AJRA.jpg'
+  avatar: 'https://ajra.es/images/AJRA.jpg'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://www.twitter.com/ajra_toni"}
@@ -29,7 +29,7 @@ social:
 hero:
   hero__title: Soy AJRA <br> Web Developer & Data Analyst.
   hero__description: Soy Desarrollador Web & Analista de Datos.<br>Ayudo a personas y empresas a mejorar su presencia online.<br><br>I ❤️ iPad.
-  hero__image: 'https://ajratoni.github.io/AJRABlog/images/AJRA.jpg'
+  hero__image: 'https://ajra.es/images/AJRA.jpg'
 
 
 #-------------------------------
@@ -53,7 +53,7 @@ contact:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-13200300-5
 
 
 #-------------------------------
