@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Fotos dejará de ofrecer almacenamiento ilimitado
-description: ya os lo he dicho mil veces, no os fiéis de Google y sus servicios.
+description: Ya os lo he dicho mil veces, no os fiéis de Google y sus servicios, porque no sabemos cuándo les dará por cerrarlo o por cambiar su plan de negocio.
 ---
 
 ![Google Photos]({{site.baseurl}}/images/15.JPG)
