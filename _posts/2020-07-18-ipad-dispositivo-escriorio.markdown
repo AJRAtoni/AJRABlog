@@ -57,7 +57,7 @@ Queda muy bien en el escritorio, pero al final es poco practico ya que es muy ba
 
 Al final la mejor opción que he probado ha sido el Stand para iPad de Heckler, un stand elegante creado con acero lo cual ofrece la característica de poder pegar el iPad al stand gracias a los imanes que vienen en la parte trasera de los nuevos iPad Pro.
 
-![iPadOS]({{site.baseurl}}/images/19.jpeg)
+![iPadOS]({{site.baseurl}}/images/20.jpeg)
 
 El stand de Heckler tiene una buena altura dejando el iPad en una posición idónea para trabajar.
 
