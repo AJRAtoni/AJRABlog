@@ -11,7 +11,7 @@ url: "https://ajra.es" # the base hostname & protocol for your site, e.g. http:/
 author:
   name: AJRA
   bio: Soy Desarrollador Web & Analista de Datos.<br>Ayudo a personas y empresas a mejorar su presencia online.<br><br>I ❤️ iPad.
-  avatar: 'https://ajra.es/images/AJRA.jpg'
+  avatar: 'https://ajratoni.GitHub.com/AJRABlog/images/AJRA.jpg'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://www.twitter.com/ajra_toni"}
